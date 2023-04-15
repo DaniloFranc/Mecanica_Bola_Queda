@@ -1,0 +1,11 @@
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\TestePecas\Teste_bola\bin\Debug\Teste_bola.exe.config
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\TestePecas\Teste_bola\bin\Debug\Teste_bola.exe
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\TestePecas\Teste_bola\bin\Debug\Teste_bola.pdb
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\TestePecas\Teste_bola\obj\Debug\Teste_bola.csproj.AssemblyReference.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\TestePecas\Teste_bola\obj\Debug\Teste_bola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\TestePecas\Teste_bola\obj\Debug\Teste_bola.Form1.resources
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\TestePecas\Teste_bola\obj\Debug\Teste_bola.Properties.Resources.resources
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\TestePecas\Teste_bola\obj\Debug\Teste_bola.csproj.GenerateResource.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\TestePecas\Teste_bola\obj\Debug\Teste_bola.csproj.CoreCompileInputs.cache
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\TestePecas\Teste_bola\obj\Debug\Teste_bola.exe
+C:\Users\Danil\OneDrive\Área de Trabalho\C#\TestePecas\Teste_bola\obj\Debug\Teste_bola.pdb
