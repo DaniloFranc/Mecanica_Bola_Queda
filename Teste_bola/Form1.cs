@@ -35,11 +35,7 @@ namespace Teste_bola
         }
 
         
-        double velocidadeInicial = 10.0;
-
-
-
-
+        
 
 
         private void Form1_Load(object sender, EventArgs e)
@@ -64,8 +60,8 @@ namespace Teste_bola
             double novaVelocidade = velocidade;
             if (picBola.Top >= 401)
             {
-                
-                novaVelocidade = novaVelocidade * 0.8;
+
+                novaVelocidade = novaVelocidade * 0.90;
             }
             else
             {
